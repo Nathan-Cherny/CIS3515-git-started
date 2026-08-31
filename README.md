@@ -1,5 +1,5 @@
 ## Hello, this is CIS3515 Git-started
 
-### Please enter your tuu06258
+### Please enter your user.name Nathan Cherny
 
-### and tuu06258@temple.edu
+### and user.email natec3632@gmail.com
